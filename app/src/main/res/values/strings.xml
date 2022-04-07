@@ -4,4 +4,7 @@
     <string name="f2">Работа</string>
     <string name="f3">Отдых</string>
     <string name="f4">Учёба</string>
+    <string name="text1">Таймеры</string>
+    <string name="todo1">TODO</string>
+    <string name="todo2">TODO</string>
 </resources>
